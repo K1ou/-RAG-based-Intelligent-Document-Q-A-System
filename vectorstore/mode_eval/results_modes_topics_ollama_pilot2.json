@@ -1,0 +1,12 @@
+{
+  "dense": {
+    "annual_leave": {
+      "total_queries": 2.0,
+      "answer_hit_rate": 1.0,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.0,
+      "avg_latency_ms": 2585.691599999336
+    }
+  }
+}

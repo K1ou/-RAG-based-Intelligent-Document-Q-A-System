@@ -1,0 +1,80 @@
+{
+  "dense": {
+    "annual_leave": {
+      "total_queries": 24.0,
+      "answer_hit_rate": 0.7083333333333334,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.4166666666666667,
+      "avg_latency_ms": 3193.3303249999576
+    },
+    "probation_rule": {
+      "total_queries": 18.0,
+      "answer_hit_rate": 0.5555555555555556,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.16666666666666666,
+      "avg_latency_ms": 4441.565877778177
+    },
+    "out_of_scope": {
+      "total_queries": 18.0,
+      "answer_hit_rate": 0.8888888888888888,
+      "citation_hit_rate": 0.0,
+      "strict_citation_hit_rate": 0.0,
+      "abstain_rate": 1.0,
+      "avg_latency_ms": 4807.706994444339
+    }
+  },
+  "hybrid": {
+    "annual_leave": {
+      "total_queries": 24.0,
+      "answer_hit_rate": 0.5833333333333334,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.2916666666666667,
+      "avg_latency_ms": 4495.669216666708
+    },
+    "probation_rule": {
+      "total_queries": 18.0,
+      "answer_hit_rate": 0.5555555555555556,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.1111111111111111,
+      "avg_latency_ms": 4964.753749999444
+    },
+    "out_of_scope": {
+      "total_queries": 18.0,
+      "answer_hit_rate": 0.9444444444444444,
+      "citation_hit_rate": 0.0,
+      "strict_citation_hit_rate": 0.0,
+      "abstain_rate": 1.0,
+      "avg_latency_ms": 3210.428322222166
+    }
+  },
+  "hybrid_rerank": {
+    "annual_leave": {
+      "total_queries": 24.0,
+      "answer_hit_rate": 0.5833333333333334,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.2916666666666667,
+      "avg_latency_ms": 3289.910366666845
+    },
+    "probation_rule": {
+      "total_queries": 18.0,
+      "answer_hit_rate": 0.3333333333333333,
+      "citation_hit_rate": 1.0,
+      "strict_citation_hit_rate": 1.0,
+      "abstain_rate": 0.16666666666666666,
+      "avg_latency_ms": 4218.710433333601
+    },
+    "out_of_scope": {
+      "total_queries": 18.0,
+      "answer_hit_rate": 1.0,
+      "citation_hit_rate": 0.0,
+      "strict_citation_hit_rate": 0.0,
+      "abstain_rate": 1.0,
+      "avg_latency_ms": 3012.0655055555594
+    }
+  }
+}

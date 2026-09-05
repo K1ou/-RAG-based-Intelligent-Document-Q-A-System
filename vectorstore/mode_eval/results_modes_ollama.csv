@@ -1,0 +1,4 @@
+mode,total_queries,answer_hit_rate,citation_hit_rate,strict_citation_hit_rate,abstain_rate,hallucination_proxy_rate,avg_latency_ms
+dense,10,0.7000,0.8000,0.8000,0.3000,0.0000,3120.72
+hybrid,10,0.5000,0.8000,0.8000,0.3000,0.0000,2999.45
+hybrid_rerank,10,0.8000,0.8000,0.8000,0.3000,0.0000,3006.51
