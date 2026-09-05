@@ -1,0 +1,78 @@
+[
+  {
+    "query": "公司请假制度每年有多少天年假？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "文档中年假天数是多少？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "公司每年有几天年假？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "试用期员工的年假怎么计算？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工年假政策是什么？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "请用一句话说明请假制度中的年假规则。",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "请说明试用期员工在年假上的特殊规则。",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "年假规则中是否包含每年10天这一条？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "这份文档是否讨论了机器学习模型训练参数？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档有没有给出美国税法条款编号？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  }
+]

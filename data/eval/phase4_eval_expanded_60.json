@@ -1,0 +1,448 @@
+[
+  {
+    "query": "公司请假制度每年有多少天年假？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "文档写明每年年假天数是多少？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "员工每年固定年假几天？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "这份请假制度中的年假是几天？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "年假条款是否写了每年10天？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "制度里每年的年假额度是多少？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "请给出文档中员工年假天数。",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "该制度规定一年可休多少天年假？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "文档关于年假的数字是什么？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "每年年假是不是10天？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "请确认年假总天数。",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "年假政策写的是一年十天吗？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "按制度员工每年享受几天年假？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "这一条里写的年假数值是多少？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "企业请假制度每年配给几天年假？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "请从文档中提取年假天数信息。",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "每年可休年假的标准天数是多少？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "制度条文里年假给多少天？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "年假额度写的是10天吗？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "文档提到的年假数量有多少？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "请问年假每年是几天。",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "公司年假标准天数是多少天？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "年假是不是按每年10天执行？",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+  {
+    "query": "请回答文档中的年假天数。",
+    "expected_answer_substring": "10天年假",
+    "should_abstain": false,
+    "topic": "annual_leave",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:1"
+  },
+
+  {
+    "query": "试用期员工年假如何计算？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期年假政策是什么？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "文档如何规定试用期员工年假？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工年假是否按比例处理？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "请说明试用期年假计算规则。",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工的年假会折算吗？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "在试用期，年假怎么给？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "文档写了试用期年假按什么方式核算？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工年假是比例折算吗？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "请提取试用期年假规则。",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工享受年假时如何折算？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "年假条文对试用期有什么特别说明？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工拿年假按比例吗？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "请回答试用期年假的计算口径。",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工年假是否按比例折算？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "文档对试用期年假给出的规则是？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期人员年假发放方式是什么？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+  {
+    "query": "试用期员工的年假会按比例核算吗？",
+    "expected_answer_substring": "按比例折算",
+    "should_abstain": false,
+    "topic": "probation_rule",
+    "expected_source_file": "phase1_manual.docx",
+    "expected_source_location": "paragraph:2"
+  },
+
+  {
+    "query": "这份文档是否给出了机器学习超参数？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档有没有写美国税法条款编号？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "是否提供了 Linux 内核调度算法细节？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "这里有没有提到世界杯冠军年份？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档包含量子力学公式推导吗？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "是否有 AWS VPC 网络拓扑配置？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档里出现了 Java 字节码指令集吗？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "有没有写股票交易策略回测结果？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "这份制度文档里有 DNS 解析过程吗？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档是否描述了 DNA 测序流程？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "这里是否包含前端框架性能基准？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档中有城市人口统计数据吗？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "有提到航班时刻表或者票价吗？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "是否记录了数据库分库分表方案？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档里有医学诊断建议吗？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "有没有包含旅游路线推荐内容？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "这里是否给了 Kubernetes YAML 样例？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  },
+  {
+    "query": "文档中是否出现芯片制程参数？",
+    "expected_answer_substring": "根据已检索内容无法确定",
+    "should_abstain": true,
+    "topic": "out_of_scope"
+  }
+]
